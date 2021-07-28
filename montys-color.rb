@@ -17,3 +17,11 @@
 # else
 #     puts "I'm not a big fan of #{color}."
 # end
+
+puts "What is your favorite color?"
+color = gets.chop 
+puts "Wow! My favorite color is #{color} also!";
+
+if color == "blue"
+    puts "Wow! My favorite color is #{color} also!"
+end
