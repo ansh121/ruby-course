@@ -8,3 +8,8 @@
 # puts "Hey, #{name}! Nice to meet you!"
 
 puts "Ruby Tutorial Starts..."
+
+puts "what is your name?"
+name = gets.chop
+
+puts "Hey, #{name}! Nice to meet you!"
