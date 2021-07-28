@@ -6,3 +6,5 @@
 
 # name = gets
 # puts "Hey, #{name}! Nice to meet you!"
+
+puts "Ruby Tutorial Starts..."
